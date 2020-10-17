@@ -5,4 +5,4 @@ Kishor Mainali
 </br>
 
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=kishor98100&show_icons=true&theme=dark&hide=contribs,prs" /></p>
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor98100&layout=compact&theme=dark" /></p>
+<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor98100&layout=compact&theme=dark&langs_count=10" /></p>
