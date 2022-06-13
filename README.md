@@ -13,5 +13,5 @@ Kishor Mainali
 <br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor98100&layout=compact&theme=onedark&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor98100&layout=compact&theme=radical&langs_count=8" />
 </a>
