@@ -1,7 +1,7 @@
 Kishor Mainali
 
 
-- I am Kishor Mainali an Flutter developer and currently learning Swift language.
+- I am Kishor Mainali, Flutter developer and currently learning Swift language.
 </br>
 
 
