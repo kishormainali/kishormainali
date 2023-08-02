@@ -47,7 +47,7 @@
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_M2_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
 ## 🎵 Music apps I use
 
