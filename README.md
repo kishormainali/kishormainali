@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishormainali" alt="kishormainali" /></a> </p>
 
+- 🔭 I’m currently working on [fp_util](https://github.com/kishormainali/fp_util)
+
 - 🌱 I’m currently learning **MERN,TypeScript**
 
 - 💬 Ask me about **Flutter**
